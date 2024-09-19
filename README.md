@@ -7,6 +7,7 @@ sdk_version: 4.31.2
 
 # TonAI Text Recognition
 ### A simple OCR Python library
+Try on <a href="http://huggingface.co/spaces/tungedng2710/OCR"><img src="https://img.shields.io/badge/Huggingface-yellow"></a> space
 
 ![ONNX](https://a11ybadges.com/badge?logo=onnx) ![Python](https://a11ybadges.com/badge?logo=python) ![PyPI](https://a11ybadges.com/badge?logo=pypi)
 
