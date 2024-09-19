@@ -1,10 +1,3 @@
----
-title: TonAI-OCR
-app_file: app.py
-sdk: gradio
-sdk_version: 4.31.2
----
-
 # TonAI Text Recognition
 ### A simple OCR Python library
 Try on <a href="http://huggingface.co/spaces/tungedng2710/OCR"><img src="https://img.shields.io/badge/Huggingface-yellow"></a> space
