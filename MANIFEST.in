@@ -1,0 +1,2 @@
+include ton_ocr/models/text_detection.onnx
+include ton_ocr/models/text_recognition.onnx
