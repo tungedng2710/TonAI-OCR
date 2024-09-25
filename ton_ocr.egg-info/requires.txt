@@ -1,5 +1,5 @@
 numpy
 opencv-python
-onnxruntime
+onnxruntime-gpu
 shapely
 pyclipper

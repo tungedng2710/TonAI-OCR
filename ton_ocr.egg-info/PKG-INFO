@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: ton_ocr
-Version: 0.2.1
+Version: 0.2.3
 Summary: A description of your project
 Home-page: https://github.com/tungedng2710/TonAI-OCR
 Author: Tung Nguyen
@@ -10,6 +10,6 @@ Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Dist: numpy
 Requires-Dist: opencv-python
-Requires-Dist: onnxruntime
+Requires-Dist: onnxruntime-gpu
 Requires-Dist: shapely
 Requires-Dist: pyclipper

@@ -1,4 +1,5 @@
 MANIFEST.in
+README.md
 setup.py
 ton_ocr/__init__.py
 ton_ocr/pipeline.py
@@ -14,6 +15,6 @@ ton_ocr/det/preprocess.py
 ton_ocr/models/text_detection.onnx
 ton_ocr/models/text_recognition.onnx
 ton_ocr/rec/__init__.py
-ton_ocr/rec/ppocr_keys_v1.txt
 ton_ocr/rec/predict_rec.py
 ton_ocr/rec/rec_decoder.py
+ton_ocr/rec/vocabs.txt
