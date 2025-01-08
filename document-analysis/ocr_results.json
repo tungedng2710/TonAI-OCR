@@ -1,0 +1,82 @@
+{
+  "0": {
+    "col_0": "STT",
+    "quAa": "Hang muc",
+    "col_2": "Don gia",
+    "col_3": "Donvi th",
+    "col_4": "so",
+    "Don vi tinh.": "Thanh tien",
+    "ietNan": "VAT",
+    "Ding (VND)": "Thanh tien VAT"
+  },
+  "1": {
+    "col_0": "",
+    "quAa": "Djch vy giim sit An toan thong tin mang 24/7 Cloud Managed Security Services (SOCon-cloud)Cloud Lite cho he thong CNTT quy mo toi da 21 may chi tai Trung tam tich hop dir lieu (TTTHDL)tinh",
+    "col_2": "465 600000",
+    "col_3": "Goi/ nam",
+    "col_4": "",
+    "Don vi tinh.": "2.328.000.000",
+    "ietNan": "",
+    "Ding (VND)": "2.328.000.00"
+  },
+  "2": {
+    "col_0": "",
+    "quAa": "Phan mem ATTT",
+    "col_2": "",
+    "col_3": "",
+    "col_4": "",
+    "Don vi tinh.": "2.222.000.000",
+    "ietNan": "",
+    "Ding (VND)": "2.222.000.00"
+  },
+  "3": {
+    "col_0": "2.1",
+    "quAa": "Phan mem dieu phoi,tr dong hoa va phan umng an ninh mang Viettel Security Orehestratiun Automation & Response (VCS-CyCir) cho he thong SOC Cloud Lite",
+    "col_2": "134.400.000",
+    "col_3": "License/ nam",
+    "col_4": "",
+    "Don vi tinh.": "672.000.000",
+    "ietNan": "",
+    "Ding (VND)": "672.000.000"
+  },
+  "4": {
+    "col_0": "2.2",
+    "quAa": "Phan mem giam sat an ninhmangViettel Security Information& Eveut Maagement (VCS-CyM)chohe thong SOC Cloud Lite",
+    "col_2": "178.000.000",
+    "col_3": "License/",
+    "col_4": "",
+    "Don vi tinh.": "890.000.000",
+    "ietNan": "",
+    "Ding (VND)": "890.000.000"
+  },
+  "5": {
+    "col_0": "2.3",
+    "quAa": "Phanmem giam sat bat thuong1opmang Viettel Network Security Monitoring (VCS-NSM)htrg bang thong toi da250 Mbps cho he thong SOCCloud Lite",
+    "col_2": "89.000.000",
+    "col_3": "Licens c/nm",
+    "col_4": "",
+    "Don vi tinh.": "445.000.000",
+    "ietNan": "",
+    "Ding (VND)": "445.000.000"
+  },
+  "6": {
+    "col_0": "2.4",
+    "quAa": "Phanmem gim sit bit thuong tren may tram Viettel Endpoint Detection & Response (VCS-aJiant)cho he thongSOC Cloud Lite",
+    "col_2": "43.000.000",
+    "col_3": "License /nam",
+    "col_4": "",
+    "Don vi tinh.": "215.000.000",
+    "ietNan": "",
+    "Ding (VND)": "215.000.000"
+  },
+  "7": {
+    "col_0": "",
+    "quAa": "Tong cong gih",
+    "col_2": "ljchvu da bao",
+    "col_3": "gom thue,",
+    "col_4": "phi.kp",
+    "Don vi tinh.": "i (neuco)",
+    "ietNan": "",
+    "Ding (VND)": "4.550.000.00"
+  }
+}
