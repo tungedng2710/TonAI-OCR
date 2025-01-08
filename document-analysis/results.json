@@ -1,0 +1,222 @@
+[
+    {
+        "score": 0.9996659755706787,
+        "label": "table row",
+        "box": {
+            "xmin": 41,
+            "ymin": 772,
+            "xmax": 705,
+            "ymax": 889
+        }
+    },
+    {
+        "score": 0.9602469801902771,
+        "label": "table spanning cell",
+        "box": {
+            "xmin": 258,
+            "ymin": 83,
+            "xmax": 708,
+            "ymax": 112
+        }
+    },
+    {
+        "score": 0.9961400628089905,
+        "label": "table row",
+        "box": {
+            "xmin": 41,
+            "ymin": 341,
+            "xmax": 705,
+            "ymax": 373
+        }
+    },
+    {
+        "score": 0.999860405921936,
+        "label": "table column",
+        "box": {
+            "xmin": 454,
+            "ymin": 83,
+            "xmax": 558,
+            "ymax": 916
+        }
+    },
+    {
+        "score": 0.9999234676361084,
+        "label": "table column",
+        "box": {
+            "xmin": 331,
+            "ymin": 84,
+            "xmax": 397,
+            "ymax": 916
+        }
+    },
+    {
+        "score": 0.9998688697814941,
+        "label": "table column",
+        "box": {
+            "xmin": 398,
+            "ymin": 83,
+            "xmax": 453,
+            "ymax": 915
+        }
+    },
+    {
+        "score": 0.999749481678009,
+        "label": "table row",
+        "box": {
+            "xmin": 41,
+            "ymin": 152,
+            "xmax": 705,
+            "ymax": 338
+        }
+    },
+    {
+        "score": 0.9959266185760498,
+        "label": "table row",
+        "box": {
+            "xmin": 41,
+            "ymin": 113,
+            "xmax": 705,
+            "ymax": 154
+        }
+    },
+    {
+        "score": 0.9990195035934448,
+        "label": "table row",
+        "box": {
+            "xmin": 41,
+            "ymin": 375,
+            "xmax": 705,
+            "ymax": 523
+        }
+    },
+    {
+        "score": 0.9979370832443237,
+        "label": "table column",
+        "box": {
+            "xmin": 41,
+            "ymin": 85,
+            "xmax": 75,
+            "ymax": 917
+        }
+    },
+    {
+        "score": 0.9996844530105591,
+        "label": "table row",
+        "box": {
+            "xmin": 41,
+            "ymin": 631,
+            "xmax": 705,
+            "ymax": 776
+        }
+    },
+    {
+        "score": 0.9864138960838318,
+        "label": "table row",
+        "box": {
+            "xmin": 41,
+            "ymin": 84,
+            "xmax": 705,
+            "ymax": 112
+        }
+    },
+    {
+        "score": 0.9989877343177795,
+        "label": "table column",
+        "box": {
+            "xmin": 558,
+            "ymin": 82,
+            "xmax": 610,
+            "ymax": 917
+        }
+    },
+    {
+        "score": 0.9998481273651123,
+        "label": "table column",
+        "box": {
+            "xmin": 239,
+            "ymin": 84,
+            "xmax": 330,
+            "ymax": 917
+        }
+    },
+    {
+        "score": 0.999832034111023,
+        "label": "table column",
+        "box": {
+            "xmin": 612,
+            "ymin": 83,
+            "xmax": 705,
+            "ymax": 917
+        }
+    },
+    {
+        "score": 0.9900201559066772,
+        "label": "table row",
+        "box": {
+            "xmin": 41,
+            "ymin": 889,
+            "xmax": 705,
+            "ymax": 918
+        }
+    },
+    {
+        "score": 0.9233254194259644,
+        "label": "table column header",
+        "box": {
+            "xmin": 40,
+            "ymin": 85,
+            "xmax": 705,
+            "ymax": 156
+        }
+    },
+    {
+        "score": 0.9998946189880371,
+        "label": "table column",
+        "box": {
+            "xmin": 75,
+            "ymin": 83,
+            "xmax": 237,
+            "ymax": 917
+        }
+    },
+    {
+        "score": 0.9999352693557739,
+        "label": "table row",
+        "box": {
+            "xmin": 41,
+            "ymin": 519,
+            "xmax": 705,
+            "ymax": 630
+        }
+    },
+    {
+        "score": 0.644249677658081,
+        "label": "table spanning cell",
+        "box": {
+            "xmin": 41,
+            "ymin": 85,
+            "xmax": 75,
+            "ymax": 155
+        }
+    },
+    {
+        "score": 0.7309446930885315,
+        "label": "table spanning cell",
+        "box": {
+            "xmin": 41,
+            "ymin": 776,
+            "xmax": 75,
+            "ymax": 918
+        }
+    },
+    {
+        "score": 0.9999837875366211,
+        "label": "table",
+        "box": {
+            "xmin": 41,
+            "ymin": 84,
+            "xmax": 705,
+            "ymax": 917
+        }
+    }
+]
