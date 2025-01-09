@@ -1,0 +1,202 @@
+{
+  "0": {
+    "STT": "",
+    "Ten hang": "MO HAN 40W CAY MT",
+    "DVT": "Cay",
+    "So luong": "10",
+    "Don gia": "28.000",
+    "Thanh tien CK": "28.000",
+    "CK (%)": "",
+    "Thanh tien": "280.000"
+  },
+  "1": {
+    "STT": "",
+    "Ten hang": "BONG LED 9W RD",
+    "DVT": "Cai",
+    "So luong": "19",
+    "Don gia": "34.100",
+    "Thanh tien CK": "32.736",
+    "CK (%)": "",
+    "Thanh tien": "621.984"
+  },
+  "2": {
+    "STT": "",
+    "Ten hang": "BONGLED TRU12W RD",
+    "DVT": "Cai",
+    "So luong": "24",
+    "Don gia": "42.240",
+    "Thanh tien CK": "40.550",
+    "CK (%)": "4",
+    "Thanh tien": "973.210"
+  },
+  "3": {
+    "STT": "",
+    "Ten hang": "BONG LED TRU 20W RD",
+    "DVT": "Cai",
+    "So luong": "12",
+    "Don gia": "68.640",
+    "Thanh tien CK": "65.894",
+    "CK (%)": "4",
+    "Thanh tien": "790.733"
+  },
+  "4": {
+    "STT": "",
+    "Ten hang": "BONG LED TRU 30W RD",
+    "DVT": "Cai",
+    "So luong": "12",
+    "Don gia": "96.470",
+    "Thanh tien CK": "92.611",
+    "CK (%)": "4",
+    "Thanh tien": "1.111.334"
+  },
+  "5": {
+    "STT": "",
+    "Ten hang": "",
+    "DVT": "Cay",
+    "So luong": "350",
+    "Don gia": "374.000",
+    "Thanh tien CK": "351.560",
+    "CK (%)": "6",
+    "Thanh tien": "703.120"
+  },
+  "6": {
+    "STT": "7",
+    "Ten hang": "Q.TREO 1D (T1682) SENK0 9S",
+    "DVT": "Cay",
+    "So luong": "238",
+    "Don gia": "253.000",
+    "Thanh tien CK": "237.820",
+    "CK (%)": "6",
+    "Thanh tien": "1.902.560"
+  },
+  "7": {
+    "STT": "8",
+    "Ten hang": "Q.DUNG CNSENKO1607 2C",
+    "DVT": "DCay",
+    "So luong": "36.2",
+    "Don gia": "363.000",
+    "Thanh tien CK": "341.220",
+    "CK (%)": "6",
+    "Thanh tien": "682.440"
+  },
+  "8": {
+    "STT": "9",
+    "Ten hang": "@Q.DUNG CN SENKO 1609XI2",
+    "DVT": "a(ay",
+    "So luong": "332",
+    "Don gia": "396.000",
+    "Thanh tien CK": "372.240",
+    "CK (%)": "6",
+    "Thanh tien": "744.480"
+  },
+  "9": {
+    "STT": "",
+    "Ten hang": "DAY DOI2*30 DPC",
+    "DVT": "CUON",
+    "So luong": "",
+    "Don gia": "1.061.000",
+    "Thanh tien CK": "785.140",
+    "CK (%)": "26",
+    "Thanh tien": "1.570.280"
+  },
+  "10": {
+    "STT": "",
+    "Ten hang": "DAY 2*1.0XAM",
+    "DVT": "CUON",
+    "So luong": "2",
+    "Don gia": "770.000",
+    "Thanh tien CK": "569.800",
+    "CK (%)": "26",
+    "Thanh tien": "1.139.600"
+  },
+  "11": {
+    "STT": "",
+    "Ten hang": "DAY 2*1.5XAM",
+    "DVT": "CUON",
+    "So luong": "2",
+    "Don gia": "1.087.000",
+    "Thanh tien CK": "804.380",
+    "CK (%)": "26",
+    "Thanh tien": "1.608.760"
+  },
+  "12": {
+    "STT": "",
+    "Ten hang": "DAY C.V2.5 DPC",
+    "DVT": "CUON",
+    "So luong": "2",
+    "Don gia": "860.000",
+    "Thanh tien CK": "636.400",
+    "CK (%)": "26",
+    "Thanh tien": "1.272.800"
+  },
+  "13": {
+    "STT": "",
+    "Ten hang": "DAY C.V 1.5 DPC",
+    "DVT": "CUON",
+    "So luong": "",
+    "Don gia": "465.000",
+    "Thanh tien CK": "344.100",
+    "CK (%)": "26",
+    "Thanh tien": "688.200"
+  },
+  "14": {
+    "STT": "",
+    "Ten hang": "DAY C.V 1.0 DPC",
+    "DVT": "CUON",
+    "So luong": "2",
+    "Don gia": "384.000",
+    "Thanh tien CK": "284.160",
+    "CK (%)": "26",
+    "Thanh tien": "568.320"
+  },
+  "15": {
+    "STT": "",
+    "Ten hang": "SAC CHUINHO",
+    "DVT": "",
+    "So luong": "20",
+    "Don gia": "14.000",
+    "Thanh tien CK": "14.000",
+    "CK (%)": "",
+    "Thanh tien": "280.000"
+  },
+  "16": {
+    "STT": "",
+    "Ten hang": "BO LED 6T RD TT",
+    "DVT": "Bo",
+    "So luong": "12",
+    "Don gia": "60.280",
+    "Thanh tien CK": "57.869",
+    "CK (%)": "4",
+    "Thanh tien": "694.426"
+  },
+  "17": {
+    "STT": "",
+    "Ten hang": "CHOPBIENDO2PIN",
+    "DVT": "Cai",
+    "So luong": "10",
+    "Don gia": "/25.000",
+    "Thanh tien CK": "25.000",
+    "CK (%)": "",
+    "Thanh tien": "250.000"
+  },
+  "18": {
+    "STT": "Cong tien hang (Da trir CK): 15.882.247",
+    "Ten hang": "Cong tien hang (Da trir CK): 15.882.247",
+    "DVT": "Cong tien hang (Da trir CK): 15.882.247",
+    "So luong": "Cong tien hang (Da trir CK): 15.882.247",
+    "Don gia": "Cong tien hang (Da trir CK): 15.882.247",
+    "Thanh tien CK": "Cong tien hang (Da trir CK): 15.882.247",
+    "CK (%)": "Cong tien hang (Da trir CK): 15.882.247",
+    "Thanh tien": ""
+  },
+  "19": {
+    "STT": "Ng cti: 18.100.475",
+    "Ten hang": "Ng cti: 18.100.475",
+    "DVT": "Ng cti: 18.100.475",
+    "So luong": "Ng cti: 18.100.475",
+    "Don gia": "Ng cti: 18.100.475",
+    "Thanh tien CK": "Ng cti: 18.100.475",
+    "CK (%)": "Ng cti: 18.100.475",
+    "Thanh tien": "Ng cti: 18.100.475"
+  }
+}
