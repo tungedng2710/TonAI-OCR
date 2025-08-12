@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Convert all PDFs in a folder to PNGs using PyMuPDF.
 - Each PDF gets its own subfolder under the output directory.
